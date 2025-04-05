@@ -1,2 +1,4 @@
-package DomainModel;public class Message {
+package DomainModel;
+
+public class Message {
 }

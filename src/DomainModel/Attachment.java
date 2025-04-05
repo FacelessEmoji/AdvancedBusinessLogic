@@ -1,2 +1,4 @@
-package DomainModel;public class Attachment {
+package DomainModel;
+
+public class Attachment {
 }

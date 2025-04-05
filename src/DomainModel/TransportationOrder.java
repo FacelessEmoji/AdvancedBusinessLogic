@@ -1,2 +1,4 @@
-package DomainModel;public class TransportationOrder {
+package DomainModel;
+
+public class TransportationOrder {
 }

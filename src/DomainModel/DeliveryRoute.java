@@ -1,2 +1,4 @@
-package DomainModel;public class DeliveryRoute {
+package DomainModel;
+
+public class DeliveryRoute {
 }

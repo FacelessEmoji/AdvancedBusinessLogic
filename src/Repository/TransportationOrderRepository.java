@@ -1,2 +1,4 @@
-package Repository;public class TransportationOrderRepository {
+package Repository;
+
+public class TransportationOrderRepository {
 }

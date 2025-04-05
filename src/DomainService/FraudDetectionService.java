@@ -1,2 +1,4 @@
-package DomainService;public class FraudDetectionService {
+package DomainService;
+
+public class FraudDetectionService {
 }

@@ -1,2 +1,4 @@
-package DomainService;public class OrderLifecycleService {
+package DomainService;
+
+public class OrderLifecycleService {
 }

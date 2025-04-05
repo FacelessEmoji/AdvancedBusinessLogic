@@ -1,2 +1,4 @@
-package DomainModel;public class OrderStatus {
+package DomainModel;
+
+public class OrderStatus {
 }
